@@ -81,6 +81,16 @@ Once you have completed the setup, you can run the app using the following comma
 flutter run
 ```
 
+## Screenshot of the App
+
+![welcome page](https://github.com/pranavpunjabi28/flash_chat/assets/109886737/77c41d51-ca3f-4f03-a908-9edaf4cb102e)
+![Registration page](https://github.com/pranavpunjabi28/flash_chat/assets/109886737/f7908a79-d19d-46ba-9b87-bb98bafa699f)
+![LoginPage](https://github.com/pranavpunjabi28/flash_chat/assets/109886737/66b38605-77cf-4a8e-a896-90561da71b20)
+![chat page](https://github.com/pranavpunjabi28/flash_chat/assets/109886737/ab15e83f-6aea-4403-a918-7065ccc68f77)
+
+```
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
